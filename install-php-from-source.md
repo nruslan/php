@@ -47,7 +47,7 @@ You can execute only with required extentions (minimal version)
 
 Compile the custom PHP version
 
-    sudo make
+    sudo make -j<number-of-cores>
 
 Install the new version
 
